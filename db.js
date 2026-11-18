@@ -1,5 +1,5 @@
 //arquivo de conexão com o banco
-const {Sequelize} = require("sequelize") //importa o sequilize
+const {Sequelize} = require("sequelize") //importa o sequilizesexo
 
 const sequelize = new Sequelize( //faz a conexão com o banco 
     'biblioteca2', //nome do banco
